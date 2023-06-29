@@ -15,6 +15,8 @@ Wiring Diagram
 <img src="capture/wiring.png">
 
 ## Code
+add library ledcontrol https://downloads.arduino.cc/libraries/github.com/wayoda/LedControl-1.0.6.zip <br>
+and load compile upload this code to your projects
 https://github.com/fajarjulyana/Capasitive-soil-moisture-emoticon-face-arduino-uno/blob/98c75cf6edfd9a23a326416629e8c3685b671214/src/code.cpp#L6-L119
 # Documentation
 <img src="capture/smile.jpg">
