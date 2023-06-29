@@ -18,4 +18,4 @@ Wiring Diagram
 https://github.com/fajarjulyana/Capasitive-soil-moisture-emoticon-face-arduino-uno/blob/98c75cf6edfd9a23a326416629e8c3685b671214/src/code.cpp#L6-L119
 # Documentation
 <img src="capture/smile.jpg">
-<img src="capture/angry.jpg"
+<img src="capture/angry.jpg">
